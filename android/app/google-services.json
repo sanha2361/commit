@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "502440591970",
+    "project_id": "sanhaproject-2b49c",
+    "storage_bucket": "sanhaproject-2b49c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502440591970:android:414e1b30f9cf405a52873b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502440591970-c81rs9csg6dcnciateni8c15s72t51ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-3o6uf9zfcAdDDK30c3Bl76NKxpMO4nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502440591970-c81rs9csg6dcnciateni8c15s72t51ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
